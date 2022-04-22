@@ -47,7 +47,6 @@ This is a simple web app made using Flask for Face-Detection developed using Haa
     
 8. Go to  http://127.0.0.1:5000 in a you browser to see the app working locally.
 
-### **Output: (Detecting faces in webcam)**
+### **Images of WebApp: (Detecting faces in webcam)**
 
 <img width="563" alt="face-detection" src="https://user-images.githubusercontent.com/77202232/164677587-f030cbe4-a012-428f-b0bf-0f62db3530f6.png">
-
